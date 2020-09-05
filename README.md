@@ -4,16 +4,11 @@ This service provides functionality for running 10 different simulations using a
 
 ## System Design
 
+![System Design Image](systemDesign.png)
 
 There are two main components:
+
 1. Simulation Service Serverless Backend
 2. Simulation Frontend
 
 ## 1. Simulation Service Serverless Backend
-
-
-
-
-
-
-
